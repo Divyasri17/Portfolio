@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/1200x/8d/0c/72/8d0c72f49aaa0a6a35d34c7b98035baa.jpg",
+      "name": "Core Java"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/736x/79/0d/a7/790da74a0b1c69dd3093fecc9a781afb.jpg",
+      "name": "SQL"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/1200x/fb/1e/7f/fb1e7f9db2540c3194a9179094a925e2.jpg",
+      "name": "HTML"
+    },
+    {
+      "id": 4,
+      "img": "https://i.pinimg.com/736x/da/30/69/da30697068c26ddb9d9aa603889480d9.jpg",
+      "name": "CSS"
+    },
+    {
+      "id": 5,
+      "img": "https://i.pinimg.com/1200x/28/b0/d1/28b0d189571e22609f0e9378da7b09a4.jpg",
+      "name": "Java Script"
+    },
+    {
+      "id": 6,
+      "img": "https://i.pinimg.com/736x/47/17/0a/47170ad4d8aaa814852aea62d3cdec88.jpg",
+      "name": "Spring"
+    },
+    {
+      "id": 7,
+      "img": "https://i.pinimg.com/1200x/b4/07/2d/b4072de9bdae2a3942db5a085a8c95b6.jpg",
+      "name": "Spring Boot"
+    },
+    {
+      "id": 8,
+      "img": "https://i.pinimg.com/736x/0f/65/58/0f6558f88fb457e68f92c042df252892.jpg",
+      "name": "React.js"
+    }
+  ]
+}

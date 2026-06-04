@@ -112,21 +112,29 @@ function App() {
       git: "https://github.com/Divyasri17/TodoList",
       livelink: "https://app-git-main-divyasri.vercel.app/",
     },
-
     {
       id: 7,
-      img: "https://i.pinimg.com/1200x/f0/d0/70/f0d07019bf78575f3e8d53ac5949a8ff.jpg",
-      name: "Food Delivery",
-      expanation:
-        "A full-stack food delivery application developed using Java Servlets and SQL. It is a real-world backend project that includes restaurant management, menu items, add/remove food items, ordering system, payment functionality, and other food delivery features.",
-    },
-
-    {
-      id: 8,
       img: "https://i.pinimg.com/736x/ee/fe/8a/eefe8a5dedd2c00d984750ad82e3324e.jpg",
       name: "Ecommerce",
       expanation:
         "A full-stack ecommerce website for men, women, and kids with different product categories and multiple product sections. The project includes product listing, shopping features, category-based navigation, and an attractive user interface.",
+      git: "https://github.com/Divyasri17/T-shirtProject",
+    },
+    {
+      id: 8,
+      img: "https://i.pinimg.com/736x/00/c9/47/00c947a571970cb8e4800173f61380b0.jpg",
+      name: "Online Class Management System",
+      expanation:
+        "Online Class Management System is a web-based application developed using Spring Boot and MySQL that helps manage students, courses, and assignments efficiently. It allows students to view and submit assignments online while administrators can create courses, manage users, and track submissions through a centralized platform.",
+      git: "https://github.com/Divyasri17/onlineclass",
+    },
+
+    {
+      id: 9,
+      img: "https://i.pinimg.com/1200x/f0/d0/70/f0d07019bf78575f3e8d53ac5949a8ff.jpg",
+      name: "Food Delivery",
+      expanation:
+        "A full-stack food delivery application developed using Java Servlets and SQL. It is a real-world backend project that includes restaurant management, menu items, add/remove food items, ordering system, payment functionality, and other food delivery features.",
     },
   ];
   const form = useRef();
